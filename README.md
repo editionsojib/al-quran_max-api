@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-    <img width="460" height="300" src="https://github.com/fawazahmed0/quran-api/raw/1/quran.jpg" alt="Quran API Banner">
+    <img width="460" height="300" src="https://github.com/editionsojib/al-quran_max-api/blob/main/quran.jpg" alt="Quran API Banner">
 </p>
 
 <h1 align="center">📖 Quran API</h1>
